@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.main-container{
+	display:flex;
+	justify-content:space-between;
+	flex-wrap:wrap;
+}
+.main-container>div{
+	height:50px;
+	width:80px;
+	background-color:green;
+}
