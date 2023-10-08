@@ -1,11 +1,11 @@
 
 /* Your CSS Code here. */
-.main-container{
+.holder{
 	display:flex;
 	justify-content:space-between;
 	flex-wrap:wrap;
 }
-.main-container>div{
+.holder>div{
 	height:50px;
 	width:80px;
 	background-color:green;
